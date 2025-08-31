@@ -65,7 +65,7 @@ settings.
 ## 📸 Demo GIF
 
 <p align="center">
-  <img src="lab1juan.gif" alt="Lab 1 Demo" width="600"/>
+  <img src="lab1juan.gif" alt="Lab 1 Demo" width="300"/>
 </p>
 
 
