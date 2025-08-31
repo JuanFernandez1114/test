@@ -65,7 +65,7 @@ settings.
 ## 📸 Demo GIF
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/673e9fd5-585f-4beb-bc49-2429357e021f" alt="Task Squirrel Demo" width="300"/>
+  <img src="lab1juan.gif" alt="Lab 1 Demo" width="600"/>
 </p>
 
 
